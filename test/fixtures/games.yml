@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  player1: MyString
+  player2: MyString
+  status: MyString
+  result: MyString
+  player1_position: 1
+  player2_position: 1
+  ball_position_x: 1
+  ball_positiong_y: 1
+  player1_score: 1
+  player2_score: 1
+  start_time: 2013-07-17 15:12:20
+  end_time: 2013-07-17 15:12:20
+
+two:
+  player1: MyString
+  player2: MyString
+  status: MyString
+  result: MyString
+  player1_position: 1
+  player2_position: 1
+  ball_position_x: 1
+  ball_positiong_y: 1
+  player1_score: 1
+  player2_score: 1
+  start_time: 2013-07-17 15:12:20
+  end_time: 2013-07-17 15:12:20

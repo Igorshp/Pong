@@ -1,0 +1,10 @@
+<script src="http://js.pusher.com/2.1/pusher.min.js"></script>
+<script type="text/javascript">
+var pusher = new Pusher('f326f98a15a0919b0937');
+var channel = pusher.subscribe('my-channel');
+channel.bind('my-event', function(data) {
+  console.log('An event was triggered with message: ' + data.message);
+  });
+</script>
+
+
