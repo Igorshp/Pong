@@ -3,7 +3,7 @@
 
 Multiplayer Pong App.
 
-waiting for update to first alpha version
+forgot to add files for alpha version. Update incoming in few hours
 
 TODO:
 
