@@ -1,6 +1,8 @@
 Pong::Application.routes.draw do
   resources :games
   get 'play' => 'play#index'
+  get 'pusher/auth' => 'pusher#auth'
+  post 'pusher/auth' => 'pusher#auth'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
